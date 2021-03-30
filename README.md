@@ -2,7 +2,7 @@
 
 ## About The Project
 
-This project is part of the Computer Engineering and Informatics Department (CEID) of University of Patras curriculum.
+This project was part of the Computer Engineering and Informatics Department (CEID) of University of Patras curriculum.
 
 The goal of the project was to implement different digital telecommunications algorithms in MATLAB.
 
